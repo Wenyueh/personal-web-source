@@ -1,15 +1,15 @@
 # SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  theme_day: my_theme
+  theme_night: my_theme
+  font: rose
+  font_size: m
 
 # SEO
 
@@ -18,13 +18,11 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
@@ -43,34 +41,34 @@ header:
 
 # Site footer
 
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+# footer:
+#   copyright:
+#     notice: '© {year} Me. This work is licensed under {license}'
+#     license:
+#       enable: false
+#       allow_derivatives: false
+#       share_alike: false
+#       allow_commercial: false
 
 # Localization
 
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  time_format: '15:04'
   address_format: en-us
 
 # Site features
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+    # theme_light: github-light
+    theme_dark: doom-one
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/quarkquartet/starter-academic-hugo'
     content_dir: content
     branch: main
   avatar:
@@ -96,10 +94,13 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: ''
     api_key: ''
     zoom: 15
 
+footer:
+  copyright:
+    notice: '© 2023  Wenyue Hua.'
 # Extensions
 
 extensions:
