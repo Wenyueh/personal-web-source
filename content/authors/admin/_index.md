@@ -37,7 +37,7 @@ education:
   - course: Ph.D. in Computer Science
     institution: Computer Science Department, Rutgers University, New Brunswick
     year: 2020-
-  - course: Master in Arts , Linguistics (Ph.D. quit)
+  - course: Master in Arts , Linguistics
     institution: Department of Linguistics, Rutgers University, New Brunswick
     year: 2018-2020
   - course: B.S. in Mathematics, General & B.A. in Linguistics&Philosophy with Specialization in Computing

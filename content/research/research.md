@@ -11,7 +11,7 @@ content:
   filters:
     # Folders to display content from
     folders:
-      - publication
+      - project
     # Uncomment below to only show content with specific tags:
 #    tags:
 #      - Machine Learning
@@ -52,3 +52,4 @@ design:
   flip_alt_rows: false
 ---
 
+My research interest is...
