@@ -52,4 +52,4 @@ design:
   flip_alt_rows: false
 ---
 
-My research interest is...
+My research focuses on large language models (LLMs) and their application as agents. Currently, my interest lies in enhancing the use of long context within LLMs, alongside evaluating and improving inter-agent communication. Additionally, I am keenly interested in exploring the application of LLMs for broader societal benefits.
