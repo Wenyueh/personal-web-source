@@ -12,7 +12,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-11-28'
+date: '2023-05-10'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ doi: ''
 # abstract: Can we avoid wars at the crossroads of history? This question has been pursued by individuals, scholars, policymakers, and organizations throughout human history. In this research, we attempt to answer the question based on the recent advances of Artificial Intelligence (AI) and Large Language Models (LLMs). We propose \textbf{WarAgent}, an LLM-powered multi-agent AI system, to simulate the participating countries, their decisions, and the consequences, in historical international conflicts, including the World War I (WWI), the World War II (WWII), and the Warring States Period (WSP) in Ancient China. By evaluating the simulation effectiveness, we examine the advancements and limitations of cutting-edge AI systems' abilities in studying complex collective human behaviors such as international conflicts under diverse settings. In these simulations, the emergent interactions among agents also offer a novel perspective for examining the triggers and conditions that lead to war. Our findings offer data-driven and AI-augmented insights that can redefine how we approach conflict resolution and peacekeeping strategies. The implications stretch beyond historical analysis, offering a blueprint for using AI to understand human history and possibly prevent future international conflicts. Code and data are available at [this url](https://github.com/agiresearch/WarAgent). 
 
 # Summary. An optional shortened abstract.
-summary:  We propose **WarAgent**, an LLM-powered multi-agent AI system, to simulate the participating countries, their decisions, and the consequences, in historical international conflicts, including the World War I (WWI), the World War II (WWII), and the Warring States Period (WSP) in Ancient China.
+summary: The integration of foundation models like Large Language Models (LLMs) into recommender systems (RS) marks a significant advancement in the field. Adapting LLMs to recommender systems that manage billions of users and items presents a complex yet crucial challenge. This exploration delves into the benefits and potential issues of utilizing LLMs within recommender systems, contributing to advancements in this area.
 tags: []
 
 # Display this page in the Featured widget?
@@ -55,4 +55,4 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}} -->
 
 ## Abstract
-...
+The integration of foundation models like Large Language Models (LLMs) into recommender systems (RS) marks a significant advancement in the field. Adapting LLMs to recommender systems that manage billions of users and items presents a complex yet crucial challenge. This exploration delves into the benefits and potential issues of utilizing LLMs within recommender systems, contributing to advancements in this area.

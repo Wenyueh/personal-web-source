@@ -1,5 +1,5 @@
 ---
-title: 'LLM-based Agent and Multi-agent System'
+title: 'pre-LLM NLP'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -12,7 +12,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-11-28'
+date: '2022-05-10'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ doi: ''
 # abstract: Can we avoid wars at the crossroads of history? This question has been pursued by individuals, scholars, policymakers, and organizations throughout human history. In this research, we attempt to answer the question based on the recent advances of Artificial Intelligence (AI) and Large Language Models (LLMs). We propose \textbf{WarAgent}, an LLM-powered multi-agent AI system, to simulate the participating countries, their decisions, and the consequences, in historical international conflicts, including the World War I (WWI), the World War II (WWII), and the Warring States Period (WSP) in Ancient China. By evaluating the simulation effectiveness, we examine the advancements and limitations of cutting-edge AI systems' abilities in studying complex collective human behaviors such as international conflicts under diverse settings. In these simulations, the emergent interactions among agents also offer a novel perspective for examining the triggers and conditions that lead to war. Our findings offer data-driven and AI-augmented insights that can redefine how we approach conflict resolution and peacekeeping strategies. The implications stretch beyond historical analysis, offering a blueprint for using AI to understand human history and possibly prevent future international conflicts. Code and data are available at [this url](https://github.com/agiresearch/WarAgent). 
 
 # Summary. An optional shortened abstract.
-summary:  Artificial Intelligence (AI) aims to emulate Human Intelligence (HI) in combining basic skills to address complex tasks. AI agents is an especially important step the development of AI, which should integrate expert models and external tools for solving intricate problems, a step towards achieving Artificial General Intelligence (AGI). Large Language Models (LLMs) demonstrate notable capabilities in learning and reasoning and are proficient in employing external models, tools, plugins, or APIs for complex problem-solving. LLM-based agents are essentially LLMs enhanced with access to these additional resources.
+summary:  Some works before the giant LLM ...
 tags: []
 
 # Display this page in the Featured widget?
@@ -55,4 +55,4 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}} -->
 
 ## Abstract
-Artificial Intelligence (AI) aims to emulate Human Intelligence (HI) in combining basic skills to address complex tasks. AI agents is an especially important step the development of AI, which should integrate expert models and external tools for solving intricate problems, a step towards achieving Artificial General Intelligence (AGI). Large Language Models (LLMs) demonstrate notable capabilities in learning and reasoning and are proficient in employing external models, tools, plugins, or APIs for complex problem-solving. LLM-based agents are essentially LLMs enhanced with access to these additional resources.
+Some works before the advent of giant LLM ...
