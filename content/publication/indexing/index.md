@@ -47,7 +47,7 @@ featured: true
 
 # url_pdf: ''
 url_code: 'https://github.com/Wenyueh/LLM-RecSys-ID'
-# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://arxiv.org/pdf/2305.06569.pdf'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''

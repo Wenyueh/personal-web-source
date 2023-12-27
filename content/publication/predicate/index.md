@@ -49,7 +49,7 @@ featured: true
 
 # url_pdf: ''
 url_code: https://sunbelbd.github.io/Open-Information-eXpression/
-# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: 'https://aclanthology.org/2020.emnlp-main.167.pdf'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
@@ -69,7 +69,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - pre-LLM NLP
+  - LLM & NLP
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -46,7 +46,7 @@ featured: true
 
 # url_pdf: ''
 url_code: 'https://github.com/WenzhengZhang/EntQA'
-# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://https://arxiv.org/pdf/2110.02369.pdf'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
@@ -66,7 +66,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - pre-LLM NLP
+  - LLM & NLP
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

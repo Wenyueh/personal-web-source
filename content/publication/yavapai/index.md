@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ''
+url_pdf: 'https://www.researchgate.net/profile/Wenyue_Hua/publication/353141739_Computational_Complexity_in_Optional_Syllabification_of_Yavapai/links/60ff10c1169a1a0103bc2cd5/Computational-Complexity-in-Optional-Syllabification-of-Yavapai.pdf'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''

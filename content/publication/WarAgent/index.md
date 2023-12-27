@@ -51,7 +51,7 @@ featured: true
 
 # url_pdf: ''
 url_code: 'https://github.com/agiresearch/WarAgent'
-# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://arxiv.org/pdf/2311.17227.pdf'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''

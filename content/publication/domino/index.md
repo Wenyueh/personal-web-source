@@ -49,7 +49,7 @@ featured: true
 
 # url_pdf: ''
 url_code: 'https://github.com/Wenyueh/DEIM'
-# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: 'https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00617/118719'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
@@ -69,7 +69,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - pre-LLM NLP
+  - LLM & NLP
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

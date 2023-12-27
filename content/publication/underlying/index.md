@@ -44,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ''
+url_pdf: 'https://adamjardine.net/files/huaetalWCCFL2020ms.pdf'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''

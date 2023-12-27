@@ -48,7 +48,7 @@ featured: true
 
 # url_pdf: ''
 url_code: 'https://llmrecsys.github.io/'
-# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: 'https://www.yongfeng.me/attach/hua-recsys2023.pdf'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''

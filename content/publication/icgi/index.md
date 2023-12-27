@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ''
+url_pdf: 'https://proceedings.mlr.press/v153/hua21a/hua21a.pdf'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''

@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ''
+url_pdf: 'https://www.universiteitleiden.nl/binaries/content/assets/geesteswetenschappen/lucl/sole/console-xxviii.pdf'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''

@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-# url_pdf: ''
+url_pdf: 'https://aclanthology.org/2022.findings-emnlp.42.pdf'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
 # url_project: ''
@@ -64,7 +64,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - pre-LLM NLP
+  - LLM & NLP
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
