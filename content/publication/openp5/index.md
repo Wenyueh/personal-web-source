@@ -37,7 +37,7 @@ summary: This paper presents OpenP5, an open-source library for benchmarking fou
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
