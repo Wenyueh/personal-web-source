@@ -55,7 +55,7 @@ sections:
           date_end: ''
           description: |2-
               * Advisor: Prof. Yongfeng Zhang
-        - title: Master in Arts , Linguistics
+        - title: Master in Arts (Ph.D. transfer out), Linguistics
           company: Department of Linguistics, Rutgers University
           company_url: 'https://ling.rutgers.edu/'
           company_logo: Rutgers
