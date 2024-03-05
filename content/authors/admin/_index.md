@@ -91,4 +91,4 @@ Welcome!
 
 I'm Wenyue Hua, a 4th-year Ph.D. candidate at Rutgers. I'm honored to be advised by Prof. Yongfeng Zhang. I received MA in Linguistics at Rutgers in 2020 (proudly advised by Prof. Adam Jardine) and BA in Linguistics and Philosophy and BS in Mathematics at UCLA in 2018 (proudly advised by Prof. Edward Keenan).
 
-My research interests lie in Large Language Models and its various application, such as recommender system, information retrieval, humanity research. I care about the trustworthiness, honesty, safety, and efficiency of LLMs.
+My research interests lie in Large Language Models and its various application, such as LLM-based agent, multi-agent system, LLM for social good, LLM-based recommender system, information retrieval. I care about the trustworthiness, honesty, safety, and efficiency of LLMs.

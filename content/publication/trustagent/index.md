@@ -8,7 +8,7 @@ authors:
   - admin
   - Xianjun Yang
   - Zelong Li
-  - Cheng Wei
+  - Wei Cheng
   - Yongfeng Zhang
 
 # Author notes (optional)
