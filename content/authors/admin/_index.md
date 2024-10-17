@@ -14,15 +14,15 @@ last_name: Hua
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Computer Science Department - Rutgers University
-    url: https://www.cs.rutgers.edu/
+  - name: Computer Science Department - University of California, Santa Barbara
+    url: http://nlp.cs.ucsb.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. candidate in artificial intelligence, specifically focused on large language models.
+bio: Ph.D. in artificial intelligence, specifically focused on large language models.
 
 # Interests to show in About widget
 interests:
@@ -36,7 +36,7 @@ education:
   courses:
   - course: Ph.D. in Computer Science
     institution: Computer Science Department, Rutgers University, New Brunswick
-    year: 2020-
+    year: 2020-2024
   - course: Master in Arts (Ph.D. track transfer out), Linguistics
     institution: Department of Linguistics, Rutgers University, New Brunswick
     year: 2018-2020
@@ -89,6 +89,6 @@ highlight_name: true
 ---
 Welcome!
 
-I'm Wenyue Hua, a 4th-year Ph.D. candidate at Rutgers. I'm honored to be advised by Prof. Yongfeng Zhang. I received MA in Linguistics at Rutgers in 2020 (proudly advised by Prof. Adam Jardine) and BA in Linguistics and Philosophy and BS in Mathematics at UCLA in 2018 (proudly advised by Prof. Edward Keenan).
+I'm Wenyue Hua, postdoctoral researcher at University of California, Santa Barbara, working with Professor William Wang. I obtained my Ph.D. degree from Rutgers University, New Brunswick (2020 - 2024). I'm honored to be advised by Prof. Yongfeng Zhang. I received MA in Linguistics at Rutgers in 2020 (proudly advised by Prof. Adam Jardine) and BA in Linguistics and Philosophy and BS in Mathematics at UCLA in 2018 (proudly advised by Prof. Edward Keenan).
 
-My research interests lie in Large Language Models and its various application, such as LLM-based agent, multi-agent system, LLM for social good, LLM-based recommender system, information retrieval. I care about the trustworthiness, honesty, safety, and efficiency of LLMs.
+My research interests lie in Large Language Models and its various application, such as LLM-based agent, multi-agent system, LLM for social good, LLM-based recommender system, information retrieval. I care about the trustworthiness, safety, and efficiency of LLMs.
