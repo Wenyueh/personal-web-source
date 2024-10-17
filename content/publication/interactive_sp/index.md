@@ -6,11 +6,11 @@ title: 'Interactive Speculative Planning: Enhance Agent Efficiency through Co-de
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Mengting Wang
+  - Mengting Wan
   - Shashank Vadrevu
   - Ryan Nadel
   - Yongfeng Zhang
-  - Chi Wnag
+  - Chi Wang
 
 # Author notes (optional)
 # author_notes:
