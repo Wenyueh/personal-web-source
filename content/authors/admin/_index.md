@@ -26,10 +26,10 @@ bio: Ph.D. in artificial intelligence, specifically focused on large language mo
 
 # Interests to show in About widget
 interests:
-  - Natural language processing
   - Large language models
   - LLM-based agent
   - Trustworthy AI
+  - Efficient AI
 
 # Education to show in About widget
 education:

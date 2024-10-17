@@ -46,13 +46,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Postdoctoral Researcher in Computer Science
+          company: Computer Science Department, University of California, Santa Barbara
+          company_url: 'http://nlp.cs.ucsb.edu/'
+          company_logo: Rutgers
+          location: Santa Barbara, USA
+          date_start: '2024-10-01'
+          date_end: '-'
+          description: |2-
+              * Advisor: Prof. William Wang
         - title: Ph.D. in Computer Science
-          company: Computer Science Department, Rutgers University
+          company: Computer Science Department, Rutgers University, New Brunswick
           company_url: 'https://cs.rutgers.edu'
           company_logo: Rutgers
           location: New Jersey, USA
           date_start: '2020-09-01'
-          date_end: ''
+          date_end: '2024-10-01'
           description: |2-
               * Advisor: Prof. Yongfeng Zhang
         - title: Master in Arts (Ph.D. track transfer out), Linguistics
