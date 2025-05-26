@@ -76,9 +76,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: static/uploads/resume.pdf
+# - icon: calendar
+#   icon_pack: fab
+#   link: https://calendly.com/wenyuehua/30min
 
 - icon: google scholar
   icon_pack: fab
@@ -95,3 +95,10 @@ Welcome!
 I'm Wenyue Hua, senior researcher at Microsoft Research, AI Frontiers. I was a postdoctoral researcher at University of California, Santa Barbara, working with Prof. William Yang Wang (2024 - 2025). I obtained my Ph.D. degree from Rutgers University, New Brunswick (2020 - 2024). I'm honored to be advised by Prof. Yongfeng Zhang. I received MA in Linguistics at Rutgers in 2020 (proudly advised by Prof. Adam Jardine) and BA in Linguistics and Philosophy and BS in Mathematics at UCLA in 2018 (proudly advised by Prof. Edward Keenan).
 
 My research interests lie in Large Language Models and its various application, such as LLM-based agent, multi-agent system, generative recommender system, LLM reasoning. I care about the decision-making ability, safety, and efficiency of LLM-based agents.
+
+## Collaboration & Mentoring
+
+I welcome discussions about AI agents and am open to collaborations with researchers and industry professionals. I also enjoy mentoring students at various stages of their academic journey. 
+
+Feel free to schedule a conversation [here](https://calendly.com/wenyuehua/30min) to explore potential partnerships or discuss recent developments in the field.
+
