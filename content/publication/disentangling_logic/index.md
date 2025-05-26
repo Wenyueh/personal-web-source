@@ -45,7 +45,7 @@ summary: This study intends to systematically disentangle pure logic reasoning a
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

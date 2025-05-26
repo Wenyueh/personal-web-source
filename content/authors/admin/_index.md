@@ -14,15 +14,15 @@ last_name: Hua
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Senior Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Computer Science Department - University of California, Santa Barbara
-    url: http://nlp.cs.ucsb.edu/
+  - name: Microsoft Research, AI Frontier
+    url: https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. in artificial intelligence, specifically focused on large language models.
+bio: Ph.D. in Computer Science, focused on large language models.
 
 # Interests to show in About widget
 interests:
@@ -34,10 +34,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Postdoctoral Research in Computer Science
+    institution: Computer Science Department, University of California, Santa Barbara
+    year: 2024-2025
   - course: Ph.D. in Computer Science
     institution: Computer Science Department, Rutgers University, New Brunswick
     year: 2020-2024
-  - course: Master in Arts (Ph.D. track transfer out), Linguistics
+  - course: Master of Arts in Linguistics (Ph.D. track transfer out) 
     institution: Department of Linguistics, Rutgers University, New Brunswick
     year: 2018-2020
   - course: B.S. in Mathematics, General & B.A. in Linguistics&Philosophy with Specialization in Computing
@@ -75,7 +78,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: static/uploads/resume.pdf
 
 - icon: google scholar
   icon_pack: fab
@@ -89,6 +92,6 @@ highlight_name: true
 ---
 Welcome!
 
-I'm Wenyue Hua, postdoctoral researcher at University of California, Santa Barbara, working with Professor William Wang. I obtained my Ph.D. degree from Rutgers University, New Brunswick (2020 - 2024). I'm honored to be advised by Prof. Yongfeng Zhang. I received MA in Linguistics at Rutgers in 2020 (proudly advised by Prof. Adam Jardine) and BA in Linguistics and Philosophy and BS in Mathematics at UCLA in 2018 (proudly advised by Prof. Edward Keenan).
+I'm Wenyue Hua, senior researcher at Microsoft Research, AI Frontiers. I was a postdoctoral researcher at University of California, Santa Barbara, working with Prof. William Yang Wang (2024 - 2025). I obtained my Ph.D. degree from Rutgers University, New Brunswick (2020 - 2024). I'm honored to be advised by Prof. Yongfeng Zhang. I received MA in Linguistics at Rutgers in 2020 (proudly advised by Prof. Adam Jardine) and BA in Linguistics and Philosophy and BS in Mathematics at UCLA in 2018 (proudly advised by Prof. Edward Keenan).
 
-My research interests lie in Large Language Models and its various application, such as LLM-based agent, multi-agent system, LLM for social good, LLM-based recommender system, information retrieval. I care about the trustworthiness, safety, and efficiency of LLMs.
+My research interests lie in Large Language Models and its various application, such as LLM-based agent, multi-agent system, generative recommender system, LLM reasoning. I care about the decision-making ability, safety, and efficiency of LLM-based agents.

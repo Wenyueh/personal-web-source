@@ -18,22 +18,15 @@ sections:
           filters:
             brightness: 0.3
         text_color_light: true
-  # - block: features
-  #   content:
-  #     title: Skills
-  #     items:
-  #       - name: R
-  #         description: 90%
-  #         icon: r-project
-  #         icon_pack: fab
-  #       - name: Statistics
-  #         description: 100%
-  #         icon: chart-line
-  #         icon_pack: fas
-  #       - name: Photography
-  #         description: 10%
-  #         icon: camera-retro
-  #         icon_pack: fas
+  - block: collection
+    content:
+      title: News
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: list
   - block: experience
     content:
       title: Experience
@@ -46,15 +39,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Senior Researcher
+          company: Microsoft Research, AI Frontiers
+          company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york'
+          company_logo: microsoft
+          location: New York, USA
+          date_start: '2025-06-09'
+          date_end: ''
         - title: Postdoctoral Researcher in Computer Science
           company: Computer Science Department, University of California, Santa Barbara
           company_url: 'http://nlp.cs.ucsb.edu/'
-          company_logo: Rutgers
-          location: Santa Barbara, USA
+          company_logo: ucsb
+          location: California, USA
           date_start: '2024-10-01'
-          date_end: '-'
+          date_end: '2025-06-07'
           description: |2-
-              * Advisor: Prof. William Wang
+              * Advisor: Prof. William Yang Wang
         - title: Ph.D. in Computer Science
           company: Computer Science Department, Rutgers University, New Brunswick
           company_url: 'https://cs.rutgers.edu'
@@ -63,8 +63,9 @@ sections:
           date_start: '2020-09-01'
           date_end: '2024-10-01'
           description: |2-
+              * Dissertation: Trustworthy Large Language Model
               * Advisor: Prof. Yongfeng Zhang
-        - title: Master in Arts (Ph.D. track transfer out), Linguistics
+        - title: Master of Arts (Ph.D. track transfer out) in Linguistics
           company: Department of Linguistics, Rutgers University
           company_url: 'https://ling.rutgers.edu/'
           company_logo: Rutgers
@@ -74,13 +75,12 @@ sections:
           description: |2-
               * Thesis: Learning Underlying Representations and Input-Strictly-Local Functions
               * Advisor: Prof. Adam Jardine
-
         - title: B.S. in Mathematics, General & B.A. in Linguistics&Philosophy with Specialization in Computing
           company: UCLA
-          company_url: ''
+          company_url: 'https://www.ucla.edu/'
           company_logo: UCLA
           location: California, USA
-          date_start: '2014-09-01'
+          date_start: '2014-10-01'
           date_end: '2018-06-30'
           description: |2-
               * Thesis: Boolean-Algebraic Representation of Possible Worlds

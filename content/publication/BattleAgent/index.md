@@ -45,7 +45,7 @@ summary: This paper presents BattleAgent, an emulation system that combines the 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

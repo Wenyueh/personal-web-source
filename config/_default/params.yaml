@@ -8,7 +8,7 @@
 appearance:
   theme_day: my_theme
   theme_night: my_theme
-  font: rose
+  font: my_font
   font_size: m
 
 # SEO
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: "Wenyue Hua's homepage."
+    twitter: 'a'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -62,7 +62,7 @@ locale:
 features:
   syntax_highlighter:
     # theme_light: github-light
-    theme_dark: doom-one
+    theme_dark: dracula
   math:
     enable: true
   privacy_pack:
@@ -100,7 +100,7 @@ features:
 
 footer:
   copyright:
-    notice: '© 2023  Wenyue Hua.'
+    notice: '© 2025 Wenyue Hua.'
 # Extensions
 
 extensions:
@@ -115,3 +115,6 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+
+noreadingtime: true
