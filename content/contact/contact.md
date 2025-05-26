@@ -8,6 +8,7 @@ content:
 
   # Contact details - edit or remove options as needed
   phone: (+1) 424-371-3678
+
   # appointment_url: 'https://calendly.com'
   address:
     street: Room 370, 96 Frelinghuysen Rd
@@ -72,4 +73,6 @@ design:
 
 You can find my contact information here.
 
-I encourage you to contact me via the work email if you would like to talk about AI. Otherwise, you can send me email to my personal email address. I'll also write research-related posts on my Twitter.
+I welcome discussions about AI agents and am open to collaborations with researchers and industry professionals. I also enjoy mentoring students at various stages of their academic journey. 
+
+Feel free to schedule a conversation [here](https://calendly.com/wenyuehua/30min) to explore potential partnerships or discuss recent developments in the field.
