@@ -42,8 +42,8 @@ content:
       icon_pack: fab
       name: My GitHub Repository
       link: 'https://github.com/Wenyueh/'
-    - icon: RedNote
-      icon_pack: book
+    - icon: book
+      icon_pack: fas
       name: My RedNote Account
       link: https://www.xiaohongshu.com/user/profile/5f01057f0000000001003c91
  #  contact_links:
