@@ -6,17 +6,17 @@ title: Contact Me
 content:
   title: Contact Me
 
-  # Contact details - edit or remove options as needed
-  phone: (+1) 424-371-3678
+  # # Contact details - edit or remove options as needed
+  # phone: (+1) 424-371-3678
 
   # appointment_url: 'https://calendly.com'
-  address:
-    street: Room 370, 96 Frelinghuysen Rd
-    city: Piscataway
-    region: NJ
-    postcode: '08854'
-    country: United States
-    country_code: USA
+  # address:
+  #   street: Room 370, 96 Frelinghuysen Rd
+  #   city: Piscataway
+  #   region: NJ
+  #   postcode: '08854'
+  #   country: United States
+  #   country_code: USA
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
@@ -24,8 +24,12 @@ content:
   contact_links:
     - icon: envelope
       icon_pack: fas
-      name: Work Email
+      name: Academic Email
       link: "mailto:wenyue.hua@rutgers.edu"
+    - icon: envelope-circle-check
+      icon_pack: fas
+      name: Work Email
+      link: "mailto:wenyuehua@microsoft.com"
     - icon: envelope-open
       icon_pack: fas
       name: Personal Email
@@ -38,6 +42,10 @@ content:
       icon_pack: fab
       name: My GitHub Repository
       link: 'https://github.com/Wenyueh/'
+    - icon: RedNote
+      icon_pack: book
+      name: My RedNote Account
+      link: https://www.xiaohongshu.com/user/profile/5f01057f0000000001003c91
  #  contact_links:
  #    - icon: twitter
  #      icon_pack: fab
