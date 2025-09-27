@@ -75,4 +75,4 @@ You can find my contact information here.
 
 I welcome discussions about AI agents and am open to collaborations with researchers and industry professionals. I also enjoy mentoring students at various stages of their academic journey. 
 
-Feel free to schedule a conversation [here](https://calendly.com/wenyuehua/30min) to explore potential partnerships or discuss recent developments in the field.
+Feel free to schedule a conversation at wenyue.hua@rutgers.edu to explore potential partnerships or discuss recent developments in the field.
