@@ -1,23 +1,24 @@
 ---
-title: 'Interactive Speculative Planning: Enhance Agent Efficiency through Co-design of System and User Interface'
+title: 'Semantic Scheduling for LLM Inference'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Mengting Wan
-  - Shashank Vadrevu
-  - Ryan Nadel
-  - Yongfeng Zhang
-  - Chi Wang
+  - Dujian Ding
+  - Yile Gu
+  - Yujie Ren
+  - Kai Mei
+  - Minghua Ma
+  - William Yang Wang
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-09-30'
+date: '2025-06-13'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -36,8 +37,7 @@ doi: ''
 # abstract: Can we avoid wars at the crossroads of history? This question has been pursued by individuals, scholars, policymakers, and organizations throughout human history. In this research, we attempt to answer the question based on the recent advances of Artificial Intelligence (AI) and Large Language Models (LLMs). We propose \textbf{WarAgent}, an LLM-powered multi-agent AI system, to simulate the participating countries, their decisions, and the consequences, in historical international conflicts, including the World War I (WWI), the World War II (WWII), and the Warring States Period (WSP) in Ancient China. By evaluating the simulation effectiveness, we examine the advancements and limitations of cutting-edge AI systems' abilities in studying complex collective human behaviors such as international conflicts under diverse settings. In these simulations, the emergent interactions among agents also offer a novel perspective for examining the triggers and conditions that lead to war. Our findings offer data-driven and AI-augmented insights that can redefine how we approach conflict resolution and peacekeeping strategies. The implications stretch beyond historical analysis, offering a blueprint for using AI to understand human history and possibly prevent future international conflicts. Code and data are available at [this url](https://github.com/agiresearch/WarAgent). 
 
 # Summary. An optional shortened abstract.
-summary: Agents, as user-centric tools, are increasingly deployed for human task delegation, assisting with a broad spectrum of requests by generating thoughts, engaging with user proxies, and producing action plans. However, agents based on large language models (LLMs) often face substantial planning latency due to two primary factors -- the efficiency limitations of the underlying LLMs due to their large size and high demand, and the structural complexity of the agents due to the extensive generation of intermediate thoughts to produce the final output. Given that inefficiency in service provision can undermine the value of automation for users, this paper presents a human-centered efficient agent planning method -- Interactive Speculative Planning -- aiming at enhancing the efficiency of agent planning through both system design and human-AI interaction. Our approach advocates for the co-design of the agent system and user interface, underscoring the importance of an agent system that can fluidly manage user interactions and interruptions. By integrating human interruptions as a fundamental component of the system, we not only make it more user-centric but also expedite the entire process by leveraging human-in-the-loop interactions to provide accurate intermediate steps. Code and data will be released.
-
+summary: Conventional operating system scheduling algorithms are largely content-ignorant, making decisions based on factors such as latency or fairness without considering the actual intents or semantics of processes. Consequently, these algorithms often do not prioritize tasks that require urgent attention or carry higher importance, such as in emergency management scenarios. However, recent advances in language models enable semantic analysis of processes, allowing for more intelligent and context-aware scheduling decisions. In this paper, we introduce the concept of semantic scheduling in scheduling of requests from large language models (LLM), where the semantics of the process guide the scheduling priorities. We present a novel scheduling algorithm with optimal time complexity, designed to minimize the overall waiting time in LLM-based prompt scheduling. To illustrate its effectiveness, we present a medical emergency management application, underscoring the potential benefits of semantic scheduling for critical, time-sensitive tasks. 
 tags: []
 
 # Display this page in the Featured widget?
@@ -48,9 +48,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2410.00079'
-# url_code: ''
-# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_pdf: ''
+url_code: 'https://github.com/Wenyueh/latency_optimization_with_priority_constraints'
+url_pdf: 'https://arxiv.org/abs/2506.12204'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
@@ -70,7 +70,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - Agent
   - MLSys
 
 # Slides (optional).
@@ -90,4 +89,4 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}} -->
 
 ## Abstract
-Agents, as user-centric tools, are increasingly deployed for human task delegation, assisting with a broad spectrum of requests by generating thoughts, engaging with user proxies, and producing action plans. However, agents based on large language models (LLMs) often face substantial planning latency due to two primary factors -- the efficiency limitations of the underlying LLMs due to their large size and high demand, and the structural complexity of the agents due to the extensive generation of intermediate thoughts to produce the final output. Given that inefficiency in service provision can undermine the value of automation for users, this paper presents a human-centered efficient agent planning method -- Interactive Speculative Planning -- aiming at enhancing the efficiency of agent planning through both system design and human-AI interaction. Our approach advocates for the co-design of the agent system and user interface, underscoring the importance of an agent system that can fluidly manage user interactions and interruptions. By integrating human interruptions as a fundamental component of the system, we not only make it more user-centric but also expedite the entire process by leveraging human-in-the-loop interactions to provide accurate intermediate steps. Code and data will be released.
+Conventional operating system scheduling algorithms are largely content-ignorant, making decisions based on factors such as latency or fairness without considering the actual intents or semantics of processes. Consequently, these algorithms often do not prioritize tasks that require urgent attention or carry higher importance, such as in emergency management scenarios. However, recent advances in language models enable semantic analysis of processes, allowing for more intelligent and context-aware scheduling decisions. In this paper, we introduce the concept of semantic scheduling in scheduling of requests from large language models (LLM), where the semantics of the process guide the scheduling priorities. We present a novel scheduling algorithm with optimal time complexity, designed to minimize the overall waiting time in LLM-based prompt scheduling. To illustrate its effectiveness, we present a medical emergency management application, underscoring the potential benefits of semantic scheduling for critical, time-sensitive tasks. 
