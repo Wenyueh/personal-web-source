@@ -72,6 +72,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
   - Agent
+  - MLSys
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
