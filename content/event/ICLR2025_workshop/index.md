@@ -1,8 +1,7 @@
 ---
-title: Gave a talk about Magentic Marketplace at Columbia Agent Workshop!
-cms_exclude: true
+title: Our workshop on Memory Layer for Agentic Systems (MemAgents) was accepted to ICLR 2026!
 
-date: "2025-10-27"
+date: "2025-12-24"
 
 # View.
 #   1 = List

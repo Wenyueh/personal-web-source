@@ -96,6 +96,8 @@ I'm Wenyue Hua, senior researcher at Microsoft Research, AI Frontiers. I was a p
 
 My research interests lie in Large Language Models and its various application, such as LLM-based agent, multi-agent system, generative recommender system, LLM reasoning. I care about the decision-making ability, safety, and efficiency of LLM-based agents.
 
+I am also Partner @ NICE AI TALK (https://nice-intl.github.io/). If you have any paper or project that you want to present, please contact nice.ai.academy@gmail.com
+
 ## Collaboration & Mentoring
 
 I welcome discussions about AI agents and am open to collaborations with researchers and industry professionals. I also enjoy mentoring students at various stages of their academic journey. 
