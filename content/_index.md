@@ -24,7 +24,7 @@ sections:
       title: Selected Works
       subtitle: 'Papers I led as first, co-first, or senior author. Full list on the [Publications page](/en/publication/).'
       text: |-
-        #### Strategic and social decision-making (main line)
+        #### Strategic and social decision-making
 
         **[SocialRL: From Passive Delegates to Strategic Negotiators](/en/publication/socialrl/)** (2026, arXiv 2608.13787). A general RL recipe that trains social reasoning directly. A 4B model matches or exceeds the GPT-5 family in-domain across six negotiation domains. [PDF](https://arxiv.org/pdf/2608.13787)
 
