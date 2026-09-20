@@ -24,8 +24,8 @@ content:
 #      - section
 
   # Field to sort by, such as Date or Title
-  sort_by: 'Date'
-  sort_ascending: false
+  sort_by: 'Weight'
+  sort_ascending: true
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
@@ -52,4 +52,4 @@ design:
   flip_alt_rows: false
 ---
 
-My research focuses on large language models (LLMs) and their applications as agents. Currently, my interest lies in enhancing safety, efficiency, and personalized decision-making ability of LLM-based agents. Additionally, I am also very interested in evaluating and understanding the reasoning abilities of LLM.
+I study and train LLM agents that negotiate, cooperate, and act on people's behalf, and I work on making them safe and efficient enough to deploy. My work runs across three lines: strategic and social decision-making, trustworthiness, and efficiency. Two earlier lines, reasoning evaluation and generative recommendation, still inform how I frame problems, as does my background in formal linguistics.

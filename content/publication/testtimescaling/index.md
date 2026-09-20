@@ -76,7 +76,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - LLM & NLP
+  - reasoning-evaluation
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
