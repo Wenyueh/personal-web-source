@@ -241,6 +241,34 @@ sections:
   #         captcha: false
   #   design:
   #     columns: '2'
+  - block: markdown
+    id: honors
+    content:
+      title: Honors, Press, and Invited Talks
+      subtitle: ''
+      text: |-
+        **Honors**
+
+        - KAUST AI Rising Star, 2025 ([news](/en/talk/Selected-as-KAUST-AI-Rising-Star-in-2025/))
+        - National Science Foundation SBIR research funding ($50,000), 2021
+        - Phi Beta Kappa, UCLA College and Departmental Honors, 2018
+
+        **Press**
+
+        - "Quantifying Trust" spotlighted in Fortune, April 2026, with commentary on systemic financial risk from AI agents ([news](/en/talk/Our-paper-on-Quantifying-Trust-is-spotlighted-in-Fortune/))
+
+        **Invited talks**
+
+        - *From Philosophy of Language to AI Agents*: Fermilab (March 2026), MBZUAI and UC Santa Barbara (June 2026) ([news](/en/talk/Very-honored-to-be-able-to-give-an-invited-talk-at-Fermilab-From-Philosophy-of-Language-to-AI-Agent./))
+        - *Agentic Risk Standard*: Columbia University (May 2026), Carnegie Mellon University (May 2026), UC Santa Barbara (April 2026)
+        - *Magentic Marketplace*: Columbia Agent Workshop (October 2025), RecSys 2025 EARL Workshop (September 2025)
+
+        **Service**
+
+        - Co-organizer, ICLR 2026 Workshop on Memory for LLM-Based Agentic Systems (MemAgents) and the 2nd COLM 2026 Workshop on Lifelong Agents
+        - Area Chair, ACL, EMNLP, NAACL, EACL, COLM (2025 to 2026)
+    design:
+      columns: '2'
   - block: experience
     content:
       title: Experience
