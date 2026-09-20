@@ -53,6 +53,8 @@ sections:
         **[How to Index Item IDs for Recommendation Foundation Models](/en/publication/indexing/)** (2023, SIGIR-AP). Systematic study of item ID construction for LLM-based generative recommendation, with sequential, collaborative, semantic, and hybrid indexing. [PDF](https://arxiv.org/pdf/2305.06569.pdf)
 
         **[NPHardEval](/en/publication/nphard/)** (2024, ACL). A dynamic reasoning benchmark organized by computational complexity class and refreshed regularly to resist overfitting. *Co-first author.* [PDF](https://arxiv.org/pdf/2312.14890.pdf)
+
+        **[InductionBench](/en/publication/inductionbench/)** (2025, ACL). A benchmark for inductive reasoning, inferring the underlying rule from observations rather than applying a given one. Frontier models fail even the simplest complexity classes of the subregular hierarchy. [PDF](https://arxiv.org/pdf/2502.15823) &middot; [Code](https://github.com/Wenyueh/inductive_reasoning_benchmark)
     design:
       columns: '2'
   - block: collection
