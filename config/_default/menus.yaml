@@ -18,10 +18,6 @@ main:
     url: 'publication/'
     weight: 40
 
-  - name: Blog
-    url: 'blogs'
-    weight: 50
-
   - name: Contact
     url: 'contact/'
     weight: 60
