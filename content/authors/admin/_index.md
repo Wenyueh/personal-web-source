@@ -26,10 +26,10 @@ bio: Ph.D. in Computer Science, focused on large language models.
 
 # Interests to show in About widget
 interests:
-  - Large language models
-  - LLM-based agent
-  - Trustworthy AI
-  - Efficient AI
+  - Strategic and social reasoning in LLM agents
+  - RL post-training for agents
+  - 'Trustworthy agents: safety, risk, privacy'
+  - Efficient agent systems
 
 # Education to show in About widget
 education:
