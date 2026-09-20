@@ -90,11 +90,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Welcome!
+I'm Wenyue Hua, a Senior Researcher at Microsoft Research, AI Frontiers. I study and train LLM agents that negotiate, cooperate, and act on people's behalf, and I work on making them safe and efficient enough to deploy.
 
-I'm Wenyue Hua, senior researcher at Microsoft Research, AI Frontiers. I was a postdoctoral researcher at University of California, Santa Barbara, working with Prof. William Yang Wang (2024 - 2025). I obtained my Ph.D. degree from Rutgers University, New Brunswick (2020 - 2024). I'm honored to be advised by Prof. Yongfeng Zhang. I received MA in Linguistics at Rutgers in 2020 (proudly advised by Prof. Adam Jardine) and BA in Linguistics and Philosophy and BS in Mathematics at UCLA in 2018 (proudly advised by Prof. Edward Keenan).
+My main line of work is strategic and social decision-making in LLM agents, and it runs from simulation to training: multi-agent simulation of strategic conflict ([WarAgent](/en/publication/WarAgent/)), game-theoretic workflows that make LLM negotiators more rational ([Game-theoretic LLM](/en/publication/gametheory/)), and reinforcement learning that lets a 4B model match or exceed the GPT-5 family in-domain across six negotiation domains ([SocialRL](/en/publication/socialrl/)). Two supporting lines make such agents deployable. Trustworthiness: [TrustAgent](/en/publication/trustagent/), the [Agentic Risk Standard](/en/publication/quantifyingtrust/), and [EmojiPrompt](/en/publication/emoji/). Efficiency: [Interactive](/en/publication/interactive_sp/) and [Dynamic Speculative Planning](/en/publication/dynamicspec/), [AgentOpt](/en/publication/agentopt/). Earlier, I worked on generative recommendation ([How to Index Item IDs](/en/publication/indexing/)) and reasoning evaluation ([NPHardEval](/en/publication/nphard/), [OpenAGI](/en/publication/OpenAGI/)).
 
-My research interests lie in Large Language Models and its various application, such as LLM-based agent, multi-agent system, generative recommender system, LLM reasoning. I care about the decision-making ability, safety, and efficiency of LLM-based agents.
+Before Microsoft, I was a postdoctoral researcher at UC Santa Barbara with Prof. William Yang Wang (2024 to 2025). I received my Ph.D. in Computer Science from Rutgers University (2020 to 2024), advised by Prof. Yongfeng Zhang. I also hold an MA in Linguistics from Rutgers (advised by Prof. Adam Jardine) and a BS in Mathematics and a BA in Linguistics and Philosophy from UCLA (advised by Prof. Edward Keenan).
 
 I am also Partner @ NICE AI TALK (https://nice-intl.github.io/). If you have any paper or project that you want to present, please contact nice.ai.academy@gmail.com
 
