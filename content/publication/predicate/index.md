@@ -40,7 +40,7 @@ summary: Existing OIE (Open Information Extraction) algorithms are independent o
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

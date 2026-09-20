@@ -40,7 +40,7 @@ summary: Recent advancements in foundation models such as large language models 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

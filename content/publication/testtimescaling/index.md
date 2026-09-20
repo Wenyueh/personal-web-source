@@ -47,7 +47,7 @@ summary: As enthusiasm for scaling computation (data and parameters) in the pret
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

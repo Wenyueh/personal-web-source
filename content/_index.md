@@ -188,17 +188,43 @@ sections:
   #       {{< gallery album="demo" >}}
   #   design:
   #     columns: '1'
-  - block: collection
-    id: featured
+  - block: markdown
+    id: selected-works
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
+      title: Selected Works
+      subtitle: 'Papers I led as first, co-first, or senior author. Full list on the [Publications page](/en/publication/).'
+      text: |-
+        #### Strategic and social decision-making (main line)
+
+        **[SocialRL: From Passive Delegates to Strategic Negotiators](/en/publication/socialrl/)** (2026, arXiv 2608.13787). A general RL recipe that trains social reasoning directly. A 4B model matches or exceeds the GPT-5 family in-domain across six negotiation domains. [PDF](https://arxiv.org/pdf/2608.13787)
+
+        **[Game-theoretic LLM: Agent Workflow for Negotiation Games](/en/publication/gametheory/)** (2024, arXiv 2411.05990). Shows where LLMs depart from rational play in complete- and incomplete-information games, and designs game-theoretic workflows that steer them toward equilibrium and better negotiation outcomes. [PDF](https://arxiv.org/pdf/2411.05990)
+
+        **[WarAgent](/en/publication/WarAgent/)** (2023, arXiv 2311.17227). LLM multi-agent simulation of WWI, WWII, and the Warring States period, used to study the triggers and conditions that lead to war. [PDF](https://arxiv.org/pdf/2311.17227.pdf)
+
+        #### Trustworthy agents
+
+        **[TrustAgent](/en/publication/trustagent/)** (2024, Findings of EMNLP). An agent-constitution framework with pre-planning, in-planning, and post-planning safety strategies. [PDF](https://github.com/agiresearch/TrustAgent/blob/main/TrustAgent.pdf)
+
+        **[Quantifying Trust: the Agentic Risk Standard](/en/publication/quantifyingtrust/)** (2026, arXiv 2604.03976). A settlement-layer standard that integrates risk assessment, underwriting, and compensation for AI-mediated transactions. *Spotlighted in Fortune.* [PDF](https://arxiv.org/pdf/2604.03976)
+
+        **[EmojiPrompt](/en/publication/emoji/)** (2025, NAACL). Generative prompt obfuscation so cloud LLMs can complete tasks without seeing raw private content. *Co-first author.* [PDF](https://aclanthology.org/2025.naacl-long.614.pdf)
+
+        #### Efficient agent systems
+
+        **[Interactive Speculative Planning](/en/publication/interactive_sp/)** (2025, ICLR). Speculative execution for agent planning, co-designed with a user interface that treats human interruption as a first-class part of the system rather than an exception. [PDF](https://arxiv.org/pdf/2410.00079)
+
+        **[Dynamic Speculative Agent Planning](/en/publication/dynamicspec/)** (2026, ICLR). An asynchronous online RL framework for lossless acceleration of agent planning, exposing a single parameter that trades latency against dollar cost and cutting total cost by 30%. *Senior author.* [PDF](https://arxiv.org/abs/2509.01920)
+
+        **[AgentOpt](/en/publication/agentopt/)** (2026, technical report, arXiv 2604.06296). Client-side model selection for agent pipelines. The cost gap between the best and worst model combinations reaches 13&ndash;32x, and Arm Elimination cuts evaluation budget by 24&ndash;67% at near-optimal accuracy. *Open-source package.* [PDF](https://arxiv.org/pdf/2604.06296) &middot; [Code](https://github.com/AgentOptimizer/agentopt)
+
+        #### Foundations: generative recommendation and reasoning evaluation
+
+        **[How to Index Item IDs for Recommendation Foundation Models](/en/publication/indexing/)** (2023, SIGIR-AP). Systematic study of item ID construction for LLM-based generative recommendation, with sequential, collaborative, semantic, and hybrid indexing. [PDF](https://arxiv.org/pdf/2305.06569.pdf)
+
+        **[NPHardEval](/en/publication/nphard/)** (2024, ACL). A dynamic reasoning benchmark organized by computational complexity class and refreshed regularly to resist overfitting. *Co-first author.* [PDF](https://arxiv.org/pdf/2312.14890.pdf)
     design:
       columns: '2'
-      view: card
   # - block: collection
   #   content:
   #     title: Recent Publications

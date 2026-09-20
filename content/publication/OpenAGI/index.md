@@ -42,7 +42,7 @@ summary: Human Intelligence (HI) excels at combining basic skills to solve compl
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

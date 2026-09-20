@@ -40,7 +40,7 @@ summary: Large language models (LLMs) have shown remarkable improvements in reas
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

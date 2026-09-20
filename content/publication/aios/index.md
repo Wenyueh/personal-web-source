@@ -42,7 +42,7 @@ summary: LLM-based intelligent agents face significant deployment challenges, pa
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

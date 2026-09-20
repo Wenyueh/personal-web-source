@@ -42,7 +42,7 @@ summary: Role-Playing Agent (RPA) is an increasingly popular type of LLM Agent t
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

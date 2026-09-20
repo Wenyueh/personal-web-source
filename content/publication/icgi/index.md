@@ -36,7 +36,7 @@ summary: This paper studies the learning of two functions given positive samples
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

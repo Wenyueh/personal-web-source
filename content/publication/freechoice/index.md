@@ -35,7 +35,7 @@ summary: Disjunction is used to connect multiple options when there is insuffici
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

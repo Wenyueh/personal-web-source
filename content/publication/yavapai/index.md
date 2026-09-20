@@ -35,7 +35,7 @@ summary: In addition to the substance in phonology, a number of researchers have
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
