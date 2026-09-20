@@ -100,7 +100,7 @@ features:
 
 footer:
   copyright:
-    notice: '© 2025 Wenyue Hua.'
+    notice: '© {year} Wenyue Hua.'
 # Extensions
 
 extensions:

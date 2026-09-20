@@ -96,7 +96,7 @@ My main line of work is strategic and social decision-making in LLM agents, and 
 
 Before Microsoft, I was a postdoctoral researcher at UC Santa Barbara with Prof. William Yang Wang (2024 to 2025). I received my Ph.D. in Computer Science from Rutgers University (2020 to 2024), advised by Prof. Yongfeng Zhang. I also hold an MA in Linguistics from Rutgers (advised by Prof. Adam Jardine) and a BS in Mathematics and a BA in Linguistics and Philosophy from UCLA (advised by Prof. Edward Keenan).
 
-I am also Partner @ NICE AI TALK (https://nice-intl.github.io/). If you have any paper or project that you want to present, please contact nice.ai.academy@gmail.com
+I founded [NICE](https://nice-intl.github.io/) (2023), an AI/NLP research community that hosts talks on new papers and projects. If you have work you would like to present, contact nice.ai.academy@gmail.com.
 
 ## Collaboration & Mentoring
 
