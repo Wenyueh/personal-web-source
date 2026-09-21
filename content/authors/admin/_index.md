@@ -90,7 +90,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I'm Wenyue Hua, a Senior Researcher at Microsoft Research, AI Frontiers. I study and train LLM agents that negotiate, cooperate, and act on people's behalf, and I work on making them safe and efficient enough to deploy.
+I'm Wenyue Hua, a Senior Researcher at Microsoft Research, AI Frontiers.
 
 My work runs across three lines. Strategic and social decision-making in LLM agents, from simulation to training: multi-agent simulation of strategic conflict ([WarAgent](/en/publication/WarAgent/)), game-theoretic workflows that make LLM negotiators more rational ([Game-theoretic LLM](/en/publication/gametheory/)), and reinforcement learning that lets a 4B model match or exceed the GPT-5 family in-domain across six negotiation domains ([SocialRL](/en/publication/socialrl/)). Trustworthiness: [TrustAgent](/en/publication/trustagent/), the [Agentic Risk Standard](/en/publication/quantifyingtrust/), and [EmojiPrompt](/en/publication/emoji/). Efficiency: [Interactive Speculative Planning](/en/publication/interactive_sp/), [Dynamic Speculative Agent Planning](/en/publication/dynamicspec/), and [AgentOpt](/en/publication/agentopt/). Earlier, I worked on generative recommendation ([How to Index Item IDs](/en/publication/indexing/)) and reasoning evaluation ([NPHardEval](/en/publication/nphard/), [InductionBench](/en/publication/inductionbench/), [OpenAGI](/en/publication/OpenAGI/)).
 
