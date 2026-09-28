@@ -14,12 +14,12 @@ last_name: Hua
 superuser: true
 
 # Role/position/tagline
-role: Senior Researcher
+role: Member of Technical Staff
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Microsoft Research, AI Frontier
-    url: https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york/
+  - name: MAI SuperIntelligence
+    url: https://microsoft.ai/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. in Computer Science, focused on large language models.
@@ -90,7 +90,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I'm Wenyue Hua, a Senior Researcher at Microsoft Research, AI Frontiers.
+I'm Wenyue Hua, a Member of Technical Staff at MAI SuperIntelligence.
 
 My work runs across three lines. Strategic and social decision-making in LLM agents, from simulation to training: multi-agent simulation of strategic conflict ([WarAgent](/en/publication/WarAgent/)), game-theoretic workflows that make LLM negotiators more rational ([Game-theoretic LLM](/en/publication/gametheory/)), and reinforcement learning that lets a 4B model match or exceed the GPT-5 family in-domain across six negotiation domains ([SocialRL](/en/publication/socialrl/)). Trustworthiness: [TrustAgent](/en/publication/trustagent/), the [Agentic Risk Standard](/en/publication/quantifyingtrust/), and [EmojiPrompt](/en/publication/emoji/). Efficiency: [Interactive Speculative Planning](/en/publication/interactive_sp/), [Dynamic Speculative Agent Planning](/en/publication/dynamicspec/), and [AgentOpt](/en/publication/agentopt/). Earlier, I worked on generative recommendation ([How to Index Item IDs](/en/publication/indexing/)) and reasoning evaluation ([NPHardEval](/en/publication/nphard/), [InductionBench](/en/publication/inductionbench/), [OpenAGI](/en/publication/OpenAGI/)).
 

@@ -283,13 +283,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Member of Technical Staff
+          company: MAI SuperIntelligence
+          company_url: 'https://microsoft.ai/'
+          company_logo: microsoft
+          location: New York, USA
+          date_start: '2026-09-01'
+          date_end: ''
         - title: Senior Researcher
           company: Microsoft Research, AI Frontiers
           company_url: 'https://www.microsoft.com/en-us/research/lab/microsoft-research-new-york'
           company_logo: microsoft
           location: New York, USA
           date_start: '2025-06-09'
-          date_end: ''
+          date_end: '2026-08-31'
         - title: Postdoctoral Researcher in Computer Science
           company: Computer Science Department, University of California, Santa Barbara
           company_url: 'http://nlp.cs.ucsb.edu/'
